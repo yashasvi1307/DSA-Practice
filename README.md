@@ -17,12 +17,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashasvi1307/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1096-brace-expansion-ii](https://github.com/yashasvi1307/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashasvi1307/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/yashasvi1307/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashasvi1307/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/yashasvi1307/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/yashasvi1307/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/yashasvi1307/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/yashasvi1307/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
