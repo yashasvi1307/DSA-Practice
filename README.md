@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashasvi1307/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashasvi1307/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashasvi1307/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashasvi1307/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/yashasvi1307/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yashasvi1307/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yashasvi1307/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
