@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashasvi1307/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0678-valid-parenthesis-string](https://github.com/yashasvi1307/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/yashasvi1307/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashasvi1307/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0678-valid-parenthesis-string](https://github.com/yashasvi1307/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/yashasvi1307/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashasvi1307/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
@@ -52,4 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashasvi1307/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/yashasvi1307/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/yashasvi1307/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/yashasvi1307/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
