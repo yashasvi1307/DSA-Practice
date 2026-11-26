@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yashasvi1307/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yashasvi1307/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashasvi1307/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3360-stone-removal-game](https://github.com/yashasvi1307/DSA-Practice/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashasvi1307/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/yashasvi1307/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/yashasvi1307/DSA-Practice/tree/master/0856-score-of-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/yashasvi1307/DSA-Practice/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
